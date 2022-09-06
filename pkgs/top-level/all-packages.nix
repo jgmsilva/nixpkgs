@@ -16625,6 +16625,8 @@ with pkgs;
 
   python-language-server = callPackage ../development/dotnet-modules/python-language-server { };
 
+  marksman = callPackage ../development/dotnet-modules/marksman { };
+
   minify = callPackage ../development/web/minify { };
 
   minizinc = callPackage ../development/tools/minizinc { };

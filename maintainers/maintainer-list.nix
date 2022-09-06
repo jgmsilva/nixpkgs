@@ -15146,4 +15146,10 @@
       fingerprint = "4384 B8E1 299F C028 1641  7B8F EC30 EFBE FA7E 84A4";
     }];
   };
+  jgmsilva = {
+    email = "jgmsilva@pm.me";
+    name = "João Guilherme Silva";
+    github = "jgmsilva";
+    githubId = 58925924;
+  };
 }
